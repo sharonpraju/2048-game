@@ -1,0 +1,11 @@
+.square{
+    height: 50px;
+    width: 50px;
+    border: 0;
+    background-color: #dbebcd;
+}
+
+.square:focus{
+    border: 0;
+    background-color: #dbebcd;
+}
